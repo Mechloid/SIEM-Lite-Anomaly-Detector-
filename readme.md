@@ -72,7 +72,7 @@ Ensure you have **Python 3.10+** installed on your system.
 
 ---
 
-## 🏃 Running the Application
+## Running the Application
 
 To run the complete system, open **three separate terminal windows** inside the project folder with your virtual environment activated:
 
@@ -105,7 +105,7 @@ done
 
 ---
 
-## 📊 Features & Capabilities
+## Features & Capabilities
 
 - **Rule-Based Brute Force Engine:** Tracks failed login attempts per IP within a custom sliding time window (e.g., >5 failures in 60s).
 - **ML Anomaly Detection:** Uses an Unsupervised Isolation Forest model to detect unusual login behavior (frequency spikes, suspicious user target patterns).
