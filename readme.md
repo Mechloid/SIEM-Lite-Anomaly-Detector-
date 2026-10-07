@@ -1,10 +1,10 @@
-# 🛡️ SIEM-Lite: Real-Time Log Anomaly & Brute-Force Detector
+# SIEM-Lite: Real-Time Log Anomaly & Brute-Force Detector
 
 A lightweight Security Information and Event Management (SIEM) application that ingests SSH/auth logs in real time, processes events through a hybrid detection engine (Rule-based + ML Anomaly Detection), stores alerts in SQLite, and visualizes security metrics on an auto-refreshing Streamlit dashboard.
 
 ---
 
-## 🏗️ Architecture Overview
+## Architecture Overview
 
 ```text
 [ Log File / auth.log ] 
@@ -28,7 +28,7 @@ A lightweight Security Information and Event Management (SIEM) application that 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 .
@@ -46,7 +46,7 @@ A lightweight Security Information and Event Management (SIEM) application that 
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Prerequisites
 Ensure you have **Python 3.10+** installed on your system.
